@@ -1,4 +1,4 @@
-## Project Euler solutions in python
+## Project Euler solutions with python
 
 Solutions are using module prime6.pyd
 
